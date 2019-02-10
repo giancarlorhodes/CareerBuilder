@@ -10,7 +10,9 @@ namespace CommonLibrary
     using System.Threading.Tasks;
 
     /// <summary>
-    /// 
+    /// AUTHOR: Giancarlo Rhodes
+    /// DESCRIPTION: roles 
+    /// COMPANY: Onshore Outsourcing https://www.onshoreoutsourcing.com/
     /// </summary>
     public enum Role
     {
