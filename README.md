@@ -1,2 +1,2 @@
 # careerbuilder
-Making for Onshore Outsourcing at part of Workforce Optimization program which is a bit of mystery phrase to me right now
+Making for Onshore Outsourcing at part of Workforce Optimization program. This might a good idea in other organizations.
